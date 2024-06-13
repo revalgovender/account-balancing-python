@@ -61,6 +61,10 @@
 ### Goal
 
 - Write a function that takes an input (current_state, target_state) and returns money_movements.
+- The primary objective of the task is to write a working and correct solution.
+- Any optimisations are nice to have and can be added later.
+
+#### Money Movements
 
 ```json
 [
@@ -74,8 +78,6 @@
 
 ### Limitations
 
-- The primary objective of the task is to write a working and correct solution.
-- Any optimisations are nice to have and can be added later.
 - The algorithm must not send money to and from the same account.
 - The algorithm must not output more than 1 money movement from and to the same pair of accounts.
 
